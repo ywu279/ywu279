@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ywu279
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning Python/SQL/HTML/CSS/JavaScript and Math!
+- 🌱 I’m currently learning HTML/CSS/JavaScript/Python/SQL and Math!
 - 💞️ I’m looking to collaborate on many real-world projects
 - 📫 Reach me by email mirandawyf@gmail.com
 
