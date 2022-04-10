@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ywu279
-- 👀 I’m interested in web programming
-- 🌱 I’m currently learning HTML/CSS/JavaScript/Python/SQL/C# and Math!
-- 💞️ I’m looking to collaborate on many real-world projects
-- 📫 Reach me by email wu000284@algonquinlive.com
+- 👋 Hi, I’m Yufan(Miranda) Wu `@ywu279`
+- 👀 I’m interested in designing and developing beautiful webpages
+- 🌱 I’m currently learning `HTML`/ `CSS`/ `JavaScript`/ `SQL`/ `C#` and more at college
+- 💞️ I’m looking to collaborate on interesting web development projects!
+- 📫 Please feel free to reach me by email wu000284@algonquinlive.com
 
 <!---
 ywu279/ywu279 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
