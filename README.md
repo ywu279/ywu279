@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yufan(Miranda) Wu `@ywu279`
 - 👀 I’m interested in designing and developing beautiful things for the web!
-- 🌱 I’m currently learning `HTML`/ `CSS`/ `JavaScript`/ `SQL`/ `C#` and more.
+- 🌱 I’m currently learning `HTML`/ `CSS`/ `JavaScript`/ `SQL`/ `C#` and more. Feel free to check out my [resume](https://github.com/ywu279/ywu279/files/9116010/Miranda.Yufan.Wu_Resume_Developer_v1.4.pdf) for more information!
 - 💞️ I’m looking to collaborate on interesting front-end development projects!
 - 📫 Please feel free to reach me by email wu000284@algonquinlive.com
 
