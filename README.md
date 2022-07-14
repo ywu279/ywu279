@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yufan(Miranda) Wu `@ywu279`
 - 👀 I’m interested in designing and developing beautiful things for the web!
-- 🌱 I’m currently learning `HTML`/ `CSS`/ `JavaScript`/ `SQL`/ `C#` and more at college.
+- 🌱 I’m currently learning `HTML`/ `CSS`/ `JavaScript`/ `SQL`/ `C#` and more.
 - 💞️ I’m looking to collaborate on interesting front-end development projects!
 - 📫 Please feel free to reach me by email wu000284@algonquinlive.com
 
